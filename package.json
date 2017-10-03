@@ -1,0 +1,17 @@
+{
+  "name": "expresscounter",
+  "version": "1.0.0",
+  "description": "Assignment: Counter\r Build an Express application that counts the number of times the root route ('/') has been viewed.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Daniel Hilla",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.1",
+    "express-session": "^1.15.6"
+  }
+}
